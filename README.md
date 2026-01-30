@@ -1,23 +1,15 @@
-\# python-playground
+# python-playground
 
 
 
-This repository is for practicing Python fundamentals.
+This repository is for learning Python step by step.
 
 
 
-\## What I learned
+## Progress
 
-\- Python setup and environment
-
-\- Variables and basic data types
-
-\- if conditions and input handling
-
-\- list and dictionary basics
-
-\- Basic Git and GitHub workflow
-
+- Day 1: Python setup, variables, input, list/dict, Git & GitHub
+- Day 2: Data processing with loops (for, enumerate, break/continue, while)
 
 
 \## How to run
